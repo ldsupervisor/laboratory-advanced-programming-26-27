@@ -2,6 +2,7 @@
   <Folder Name="/Lab 1/" />
   <Folder Name="/Lab 1/Examples/">
     <Project Path="Lab1/Examples/DIP/DIP.csproj" />
+    <Project Path="Lab1/Examples/FactoryExample/FactoryExample/FactoryExample.csproj" />
     <Project Path="Lab1/Examples/NoDIP/NoDIP.csproj" />
   </Folder>
   <Folder Name="/Lab 1/Solutions/">
@@ -9,6 +10,7 @@
     <Project Path="Lab1/Solutions/FactoryMethod_2/FactoryMethod_2.csproj" />
   </Folder>
   <Folder Name="/Lab 1/Tests/">
+    <Project Path="Lab1/Examples/FactoryExample/MarketsTest/Examples_FactoryExample_Markets_UT.csproj" />
     <Project Path="Lab1/Tests/Lab1_FactoryMethod_2_UT.csproj" />
   </Folder>
 </Solution>
