@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ThemeColorAbstractFactoryExample/ThemeColorAbstractFactoryExample.csproj" />
+  <Project Path="ThemeTest/ThemeTest.csproj" />
+</Solution>
